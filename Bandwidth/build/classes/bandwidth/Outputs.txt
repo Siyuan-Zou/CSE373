@@ -1,0 +1,9 @@
+Program Limit: g-bt-11-10.txt
+
+Upper Bound is: 4
+Upper Bound is: 3
+Upper Bound is: 2
+Minimum Bandwidth: 2
+Permutation: 
+[11, 10, 5, 9, 2, 4, 1, 8, 3, 7, 6]
+BUILD SUCCESSFUL (total time: 16 seconds)
